@@ -1,12 +1,11 @@
 """
-This is our version of Assignment 5 Part 2 in which an AI plays a full game of Taffy Tangle using the same graphics
+This is version of Assignment 5 Part 2 in which a "computer" plays a full game of Taffy Tangle using the same graphics
 module. After selecting the difficulty for the computer, you can watch it execute its desired moves until the
 game ends. The AI, named Tandy, is not very smart. Tandy will always do the first valid move it finds. This strategy
 allowed me to balance my games difficulty; in the form of the amount of turns, target score ad multipliers, by
 running Tandy on each difficulty and calculating its average ending score and using this benchmark as an average
 for a typical game. Tandy utilizes the same function in my user oriented script that checks for remaining moves,
 (the same one that finds the hint) but instead of doing nothing when finding a move, Tandy will swap the pieces.
-This AI may not be that useful but it sure is creative ;).
 
 """
 
