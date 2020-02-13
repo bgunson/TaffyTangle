@@ -1,7 +1,7 @@
 """
 Taffy Tangle
 
-Bennett Gunson - 30041789
+Bennett Gunson
 CPSC 231 - Assignment 5 Part 2
 November 14, 2018
 
