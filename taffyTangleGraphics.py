@@ -2,7 +2,7 @@
 My graphics module for my version of Taffy Tangle for CPSC 231, Assignment 5 Problem 2, Fall 2018.
 Utilizes the external stddraw module.
 
-Bennett Gunson - 30041789
+Bennett Gunson
 November 20, 2018
 
 """
